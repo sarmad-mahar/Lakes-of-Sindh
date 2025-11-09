@@ -1,0 +1,261 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1. Manchar Lake",
+        "area_km2": "228 - 500 (seasonal)",
+        "note": "The largest freshwater lake in Pakistan. Its surface area fluctuates significantly with the monsoon season."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.68,
+          26.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2. Keenjhar (Kalri) Lake",
+        "area_km2": 134.68,
+        "note": "The largest **man-made** lake in Pakistan, formed by linking two natural depressions (Sonehri and Keenjhar). It is a vital source of drinking water for Karachi and Thatta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.05,
+          24.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3. Langh Lake & Wildlife Sanctuary",
+        "area_km2": "Approx. 12 (Varying)",
+        "note": "A wildlife sanctuary located near Hamal Lake in the Qambar Shahdadkot District. Known for its avian fauna diversity."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.02482381017153,
+          27.49391194874971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4. Kalan Kar Lake (Desert)",
+        "area_km2": 98.42,
+        "note": "A lake in the Umerkot and Sanghar districts, spread across barrage and desert lands. It has a reported maximum length of 31 km. (Source: Research/Wiki)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.59438439586454,
+          25.566768189228473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5. Nareri Lake (Lagoon)",
+        "area_km2": 25.40,
+        "note": "An important Ramsar **lagoon** in the Badin coastal belt and lower Indus delta region. It serves as a source of water discharge for the Sir Creek area. (Area Source: Living Indus)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.66565574794973,
+          24.351696476710934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "6. Kuth Lake",
+        "area_km2": 1.6,
+        "note": "The largest lake in the Dubbi area (1,600,000 $\text{m}^2$). It is fed by the Mirwah canal via the 'Kadan Wari Kund' and is known for fish and birds. (Area approximated from 1600 sq m source)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.664185,
+          27.119917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "7. Bakri Waro Lake",
+        "area_km2": 1.2,
+        "note": "Bakri Waro means 'Owner of Goat.' This beautiful lake features the 100-meter tall 'Bakri Waro Daro' mound on its southern bank and is known for migratory birds. (Area approximated from 1,200,000 $\text{m}^2$ source)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.68415278602107,
+          27.132425907286194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "8. Wadi Sim Lake",
+        "area_km2": 0.7,
+        "note": "The deepest lake in its area (4.5m), located east of the main lake cluster. It is a salt water lake. (Area approximated from 700,000 $\text{m}^2$ source)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.70,
+          27.10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "9. Jamal Shah Lake",
+        "area_km2": 0.6,
+        "note": "Famous for water believed to treat skin diseases. The shrine and tomb of Pir Jamal Shah are located on its bank. (Area approximated from 600,000 $\text{m}^2$ source)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.65,
+          27.10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "10. Tal Lake",
+        "area_km2": 0.8,
+        "note": "Named after 'Tal' (gross) grass that grows in its water. Situated in the north of the lake cluster near Village Tali. (Area approximated from 800,000 $\text{m}^2$ source)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.66,
+          27.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "11. Wero Lake",
+        "area_km2": 0.5,
+        "note": "Located closest to Dubbi Village. It is one of the smaller, shallower lakes in the cluster. (Area approximated from 500,000 $\text{m}^2$ source)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.68,
+          27.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "12. Ganairo Lake",
+        "area_km2": "Varies/Small",
+        "note": "The most eastern lake in this area, known for a large amount of salt under the water, which locals dig for home use."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.72,
+          27.10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "13. Pateji Lake (Dhand)",
+        "area_km2": "Varies/Small",
+        "note": "A 'Dhand' (shallow lake/depression) in the Badin District. It is one of the coastal wetlands in the region. (Source: ResearchGate/World Bank)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.73277,
+          24.315968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "14. Haleji Lake",
+        "area_km2": 17.04,
+        "note": "A former reservoir, now a wildlife sanctuary and Ramsar Site, serving as an important habitat for waterbirds."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.77191161782,
+          24.803667701004148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "15. Hadero Lake",
+        "area_km2": 13.21,
+        "note": "A brackish water wetland, known for migratory birds."
+      }
+      ,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.86,
+          24.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "16. Drigh Lake",
+        "area_km2": 1.64,
+        "note": "A small, slightly brackish Ramsar site and Wildlife Sanctuary with extensive reed marshes, important for breeding and wintering waterbirds. (Area Source: Ramsar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.924354,
+          27.565976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "17. Hamal Lake",
+        "area_km2": "12 (varying)",
+        "note": "Located in the Kamber Shahdadkot District; its area fluctuates widely due to water inflow from the Main Nara Valley Drain (MNVD)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.63,
+          27.45
+        ]
+      }
+    }
+  ]
+}

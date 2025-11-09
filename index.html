@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Interactive map of the 6 major lakes in Sindh, Pakistan">
+  <title>The 6 Major Lakes in Sindh</title>
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
+  <!-- Project CSS -->
+  <link rel="stylesheet" href="style.css" />
+  <!-- Add this in the head section, after your existing CSS links -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <!-- Add these lines after your existing meta tags -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Montserrat:wght@500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="header-left">
+      <div class="site-title">The Lakes of Sindh</div>
+    </div>
+
+    <div class="header-right">
+      <a href="https://www.linkedin.com/in/sarmadmahar/" target="_blank" class="linkedin-link" aria-label="Sarmad Mahar on LinkedIn">
+        <i class="fab fa-linkedin" aria-hidden="true"></i>
+      </a>
+      <span class="author-name">Sarmad Mahar</span>
+    </div>
+  </header>
+
+  <main>
+    <div id="map"></div>
+  </main>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+  <!-- Project JS -->
+  <script src="lake-info.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
