@@ -169,9 +169,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "12. Ganairo Lake",
-        "area_km2": "Varies/Small",
-        "note": "The most eastern lake in this area, known for a large amount of salt under the water, which locals dig for home use."
+        "name": "12. Ganero Salt Lake",
+        "area_km2": "varies/small",
+        "note": "The lake is known for a large amount of salt under the water, which locals dig for use."
       },
       "geometry": {
         "type": "Point",
@@ -258,4 +258,5 @@
       }
     }
   ]
+
 }
